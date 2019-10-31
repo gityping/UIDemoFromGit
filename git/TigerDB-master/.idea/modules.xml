@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TigerDB.iml" filepath="$PROJECT_DIR$/TigerDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tigerdb/tigerdb.iml" filepath="$PROJECT_DIR$/tigerdb/tigerdb.iml" />
+    </modules>
+  </component>
+</project>
